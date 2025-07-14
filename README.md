@@ -10,8 +10,6 @@ A personal data project exploring digital land ownership economics in the mobile
 - Potential future insights (e.g. ROI tracking or break-even analysis)
 
 ##  Example Visuals
-![Income over time](images/income_plot.png)
-![Gain trends](images/minute_gain_plot.png)
 
 
 ##  Tech Stack
